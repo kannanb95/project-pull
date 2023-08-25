@@ -1,0 +1,2 @@
+# project-pull
+git pull
